@@ -49,6 +49,8 @@ document.write("<p style='color: #2c1907; font-family: fantasy; font-size: 2rem;
 document.write("<p style='color: #2c1907; font-family: fantasy; font-size: 2rem; padding-left: 1.5rem;'>Your order : <span style='color: #2c1907; font-family: Arial; font-size: 2rem;'>" + order + "</span></p>")
 document.write("<p style='color: #2c1907; font-family: fantasy; font-size: 2rem; padding-left: 1.5rem;'>Order status : <span style='color: #2c1907; font-family: Arial; font-size: 2rem;'>" + orderStatus + "</span></p>")
 
+
+
 // #task2
 let menu = [
     {

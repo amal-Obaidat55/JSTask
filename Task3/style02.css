@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 2rem;
-    background-image: url(images/order.jpg);
+    background-image: url(../images/order.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
