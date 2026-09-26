@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    padding: 20px;
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.8)),
+        url("../images/order.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+.style {
+    width: 400px;
+    max-width: 100%;
+    padding: 1rem 3rem;
+    background: rgba(30, 9, 9, 0.92);
+    border-radius: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 30px;
+    color: bisque;
+}
+
+form {
+    width: 100%;
+}
+
+label {
+    display: block;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #9b6b4a;
+    border-radius: 8px;
+    background-color: #fff8ef;
+    color: #371010;
+    font-size: 1rem;
+}
+
+#name,
+#pass,
+#phone {
+    min-height: 20px;
+    color: #ff9999;
+    font-size: 13px;
+}
+
+#order {
+    margin-top: 5px;
+}
+
+#btn {
+    width: 100%;
+    padding: 12px;
+    border: 3px solid #501717;
+    border-radius: 8px;
+    background-color: bisque;
+    color: #371010;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#orderDetails {
+    margin-top: 20px;
+    font-size: 16px;
+}
