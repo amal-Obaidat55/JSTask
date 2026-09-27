@@ -1,0 +1,22 @@
+body {
+  background-image: url("../images/desc.jpg");
+  background-repeat:no-repeat ;
+  background-size: cover;
+  height: 100dvh;
+  background-color: rgba(15, 12, 29, 0.75); 
+  background-blend-mode: overlay;
+}
+#container{
+    background-color: antiquewhite;
+    width: fit-content;
+    margin: 3rem;
+    padding: 3rem;
+}
+button{
+    color: blanchedalmond;
+    background-color: rgb(26, 9, 53);
+    margin-left: 1rem;
+}
+input{
+    height: 20px;
+}
