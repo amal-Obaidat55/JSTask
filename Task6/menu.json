@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Zinger",
+        "price":3,
+        "isAvailable":true
+    },
+    {
+        "name":"Shawarma",
+        "price":2.5,
+        "isAvailable":true
+    },
+    {
+        "name":"Icecream",
+        "price":0.5,
+        "isAvailable":false
+    },
+    {
+        "name":"Burger",
+        "price":3,
+        "isAvailable":true
+    }
+]
